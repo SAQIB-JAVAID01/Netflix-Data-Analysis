@@ -4,3 +4,4 @@ Netflix’s evolution from a movie-centric platform to a TV Show powerhouse is u
 
 2. Global Content, Local Stories
 While the U.S. leads production (35% of titles), markets like India and South Korea are rising stars. India’s output surged by 150% post-2018, fueled by local hits like Sacred Games, while non-English content now comprises 40% of the library. This isn’t just diversification—it’s a deliberate play to dominate global streaming by investing in hyper-local narratives that resonate culturally, proving that great stories transcend borders.
+![image](https://github.com/user-attachments/assets/addf8494-05cd-4a72-91db-74111a377dd2)
